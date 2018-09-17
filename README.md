@@ -1,0 +1,2 @@
+# WebHotel
+Group Assignment GIT
